@@ -46,7 +46,6 @@ Function ResizeImage() {
     $img.Dispose()
 }
 
-
 Clear-Host
 
 $MonFichier = ""
